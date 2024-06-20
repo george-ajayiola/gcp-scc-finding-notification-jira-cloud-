@@ -162,3 +162,5 @@ Jira deployments are highly configurable. The cloud function needs to know the t
 1. Refresh the Kanban board!
 
    ![](img/new-jira-issues.png)
+# References
+[GCP-SCC](https://github.com/shadanan/gcp-scc-finding-notification-jira-cloud)
